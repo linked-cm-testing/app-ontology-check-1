@@ -7,7 +7,7 @@
 module.exports = {
   apps: [
     {
-      name: 'app-staging',
+      name: 'ontology-check-1-app-staging',
       script: 'npm run server:staging',
       time: true,
       log_date_format: 'DD-MM-YYYY HH:mm Z',
